@@ -473,5 +473,35 @@
         "key": "adz_643b",
         "used": false,
         "duration": 5
+    },
+    {
+        "key": "adz_bf5f",
+        "used": true,
+        "duration": 20
+    },
+    {
+        "key": "adz_7593",
+        "used": true,
+        "duration": 5
+    },
+    {
+        "key": "adz_95b3",
+        "used": true,
+        "duration": 20
+    },
+    {
+        "key": "adz_48a0",
+        "used": true,
+        "duration": 30
+    },
+    {
+        "key": "adz_d513",
+        "used": false,
+        "duration": 20
+    },
+    {
+        "key": "adz_adea",
+        "used": true,
+        "duration": 30
     }
 ]
